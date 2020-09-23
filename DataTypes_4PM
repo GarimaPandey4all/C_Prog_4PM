@@ -1,0 +1,17 @@
+/*
+	Name: Brain Mentors
+	Date: 22-09-2020
+	
+*/
+
+Data Types:
+
+int : Integer Data Type : a = 10; 
+
+char : Character Data Type : ch = 'A';
+
+float : Float Data Type : b = 45.56f;
+
+double : Double Data Type : b = 45.56;
+
+void : Null or empty
